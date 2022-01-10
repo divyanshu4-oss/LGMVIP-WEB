@@ -10,6 +10,7 @@ HERE TASK_1 zip file includes first task given by the team.
 6. it incudes feedback-form page and its completely working.
 7. it includes payment page and store page of GYM where you can buy your GYM stuffs.
 8. it also includes a location finder page where you can find your destination with the GYM.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------->
 Moving Forward to TASK 3: Student Result Management System Using PHP,HTML,CSS and MYSQL
 
